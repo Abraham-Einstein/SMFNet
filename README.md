@@ -1,5 +1,6 @@
 # A Semantic-Aware and Multi-Guided Network for Infrared-Visible Image Fusion
 [Xiaoli Zhang](https://zhangxiaolijlu.github.io/), [Liying Wang](https://blog.csdn.net/weixin_46202235), [Libo Zhao](), [Xiongfei Li]() and [Siwei Ma](https://idm.pku.edu.cn/en/info/1009/1017.htm)
+
 -[*[ArXiv]*](A Semantic-Aware and Multi-Guided Network for Infrared-Visible Image Fusion)
 ## 🌟 Update
 - [2024/6] The original manuscript was uploaded to arXiv.
@@ -69,4 +70,10 @@ which can match the results in our original paper.
 ```
 ## 😊 Any question
 ```
-If you have any question, please feel free to contact with liying Wang `my_lnnu@163.com`.
+If you have any question, please feel free to contact with [Liying Wang](https://blog.csdn.net/weixin_46202235) at `my_lnnu@163.com`.
+```
+
+## 💡Acknowledgements
+```
+The codes are based on [CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse), [DeepMiH](https://github.com/TomTomTommi/DeepMIH), [IGNet](https://github.com/lok-18/IGNet), and [MGDN](https://github.com/Guanys-dar/MGDN). Please also follow their licenses. Thanks for their awesome work. Additionally, if you are attracted by [PromptFusion](https://github.com/hey-it-s-me/PromptFusion), please also refer to their papers.
+```
