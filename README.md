@@ -1,6 +1,10 @@
 # A Semantic-Aware and Multi-Guided Network for Infrared-Visible Image Fusion
-Xiaoli Zhang, Liying Wang, Libo Zhao, Xiongfei Li and Siwei Ma
+[Xiaoli Zhang](https://zhangxiaolijlu.github.io/), [Liying Wang](https://blog.csdn.net/weixin_46202235), [Libo Zhao], [Xiongfei Li] and [Siwei Ma](https://idm.pku.edu.cn/en/info/1009/1017.htm)
+-[*[ArXiv]*](A Semantic-Aware and Multi-Guided Network for Infrared-Visible Image Fusion)
 ## Update
+- [2024/6] The original manuscript was uploaded to arXiv.
+- [2024/8] The manuscript has been submitted to IEEE Transactions on Multimedia.
+- [2025/5] We have received the acceptance notification😊
 
 ## Abstract
 
@@ -54,3 +58,12 @@ python test.py
 which can match the results in our original paper.
 
 ## 📚Citation
+
+```
+@article{zhang2024semantic,
+  title={A Semantic-Aware and Multi-Guided Network for Infrared-Visible Image Fusion},
+  author={Zhang, Xiaoli and Wang, Liying and Zhao, Libo and Li, Xiongfei and Ma, Siwei},
+  journal={arXiv preprint arXiv:2407.06159},
+  year={2024}
+}
+```
