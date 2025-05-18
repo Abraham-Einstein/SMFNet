@@ -1,8 +1,10 @@
 # A Semantic-Aware and Multi-Guided Network for Infrared-Visible Image Fusion
+Xiaoli Zhang, Liying Wang, Libo Zhao, Xiongfei Li and Siwei Ma
 ## Update
-## Citation
+
 ## Abstract
-### 🏊 Training
+
+### 😊 Training
 **1. Virtual Environment**
 ```
 # create virtual environment
@@ -22,8 +24,9 @@ Run
 ```
 python dataprocessing.py
 ``` 
-and the processed training dataset is in ``'./data/MSRS_train_imgsize_128_stride_200.h5'``. This process is the same as CDDFuse.
-**4. CDDFuse Training**
+and the processed training dataset is in ``'./data/MSRS_train_imgsize_128_stride_200.h5'``. This processing way is the same as CDDFuse.
+
+**4. Training**
 
 Run 
 ```
@@ -31,7 +34,7 @@ python train.py
 ``` 
 and the trained model is available in ``'./models/'``.
 
-### 🏄 Testing
+### ☕ Testing
 
 **1. Pretrained models**
 
@@ -44,8 +47,10 @@ The test datasets includes ``'./test_img/RoadScene'``, ``'./test_img/TNO'`` for 
 
 **3. Results in Our Paper**
 
-If you want to infer with our SMFNet and obtain the fusion results in our paper, please run 
+If you want to use our SMFNet and obtain the fusion results in our paper, please run 
 ```
 python test.py
 ```
 which can match the results in our original paper.
+
+## 📚Citation
