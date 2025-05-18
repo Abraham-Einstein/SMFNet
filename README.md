@@ -13,7 +13,7 @@
 **1. Virtual Environment**
 ```
 # create virtual environment
-conda create -n cddfuse python=3.8.0
+conda create -n SMFNet python=3.8.0
 conda activate SMFNet
 # select the pytorch-gpu version yourself
 # install SMFNet requirements
