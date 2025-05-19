@@ -16,7 +16,7 @@ To tackle the problem of the neglect of inter-feature relationships, high-freque
 </div>
 
 <div align="center">
-  <img src="assets/workflow.png" alt="architecture" width="60%">
+  <img src="assets/workflow.png" alt="architecture" width="100%">
 </div>
 
 
