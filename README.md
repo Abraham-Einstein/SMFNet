@@ -9,6 +9,13 @@
 
 ## 📚 Abstract
 
+To tackle the problem of the neglect of inter-feature relationships, high-frequency information loss, and the limited attention to downstream tasks, this paper focuses on how to model correlation-driven decomposing features and reason high-level graph representation by efficiently extracting complementary information and aggregating multi-guided features. We propose a three-branch encoder-decoder architecture along with corresponding fusion layers as the fusion strategy. Firstly, shallow features from individual modalities are extracted by a depthwise convolution layer combined with the transformer block. In the three parallel branches of the encoder, Cross Attention and Invertible Block (CAI) extracts local features and preserves high-frequency texture details. Base Feature Extraction Module (BFE) captures long-range dependencies and enhances modality-shared information. Graph Reasoning Module (GR) is introduced to reason high-level cross-modality relations and simultaneously extract low-level detail features as CAI's modality-specific complementary information.
+
+<div align="center">
+  <img src="assets/workflow.pdf" alt="Comparative Approaches" width="60%">
+</div>
+
+
 ### 🚀 Training
 **1. Virtual Environment**
 ```
