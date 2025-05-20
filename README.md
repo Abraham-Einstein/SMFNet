@@ -86,5 +86,5 @@ If you have any question, please feel free to contact with [Liying Wang](https:/
 
 ## 💡Acknowledgements
 
-The codes are based on [CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse), [DeepMiH](https://github.com/TomTomTommi/DeepMIH), [IGNet](https://github.com/lok-18/IGNet), and [MGDN](https://github.com/Guanys-dar/MGDN). Please also follow their licenses. Thanks for their awesome work. Additionally, if you are attracted by [PromptFusion](https://github.com/hey-it-s-me/PromptFusion), please also refer to their papers.
+The codes are based on [CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse), [DeepMiH](https://github.com/TomTomTommi/DeepMIH), [IGNet](https://github.com/lok-18/IGNet), and [MGDN](https://github.com/Guanys-dar/MGDN). Please also follow their licenses. Thanks for their awesome work. Additionally, if you are attracted by [PromptFusion](https://github.com/hey-it-s-me/PromptFusion), please also refer to their papers. We also appreciate [Xihang Hu](https://github.com/hu-xh)'s thoughtful review and suggestions.
 
