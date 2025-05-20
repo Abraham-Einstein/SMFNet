@@ -58,7 +58,7 @@ Pretrained model is available in ``'./models/model_IVF.pth'```, which is respons
 
 **2. Test datasets**
 
-The test datasets includes ``'./test_img/RoadScene'``, ``'./test_img/TNO'`` and ```./test_img/MSRS``` for IVF, ``'./test_img/MRI-CT'``, ``'./test_img/MRI-PET'`` and ``'./test_img/MRI-SPECT'`` for MIF. Due to the limited number of pages, we only show MRI-PET fusion results in the paper. 
+The test datasets includes ``'./test_img/RoadScene'``, ``'./test_img/TNO'`` and ```./test_img/MSRS``` for IVF are the same as CDDFuse's test sets, ``'./test_img/MRI-CT'``, ``'./test_img/MRI-PET'`` and ``'./test_img/MRI-SPECT'`` for MIF. Due to the limited number of pages, we only show MRI-PET fusion results in the paper. 
 
 
 **3. Results in Our Paper**
