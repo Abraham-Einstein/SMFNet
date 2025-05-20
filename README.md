@@ -54,11 +54,11 @@ and the trained model is available in ``'./models/'``.
 
 **1. Pretrained models**
 
-Pretrained models are available in ``'./models/SMFNet_IVF.pth'`` and ``'./models/SMFNet_MIF.pth'``, which are responsible for the Infrared-Visible Fusion (IVF) and Medical Image Fusion (MIF) tasks, respectively. 
+Pretrained model is available in ``'./models/model_IVF.pth'```, which is responsible for the Infrared-Visible Fusion (IVF) task. 
 
 **2. Test datasets**
 
-The test datasets includes ``'./test_img/RoadScene'``, ``'./test_img/TNO'`` for IVF, ``'./test_img/MRI-CT'``, ``'./test_img/MRI-PET'`` and ``'./test_img/MRI-SPECT'`` for MIF. Due to the limited number of pages, we only show MRI-PET fusion results in the paper. 
+The test datasets includes ``'./test_img/RoadScene'``, ``'./test_img/TNO'`` and ```./test_img/MSRS``` for IVF, ``'./test_img/MRI-CT'``, ``'./test_img/MRI-PET'`` and ``'./test_img/MRI-SPECT'`` for MIF. Due to the limited number of pages, we only show MRI-PET fusion results in the paper. 
 
 
 **3. Results in Our Paper**
