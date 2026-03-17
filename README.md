@@ -81,7 +81,7 @@ which can match the results in our original paper.
 ```
 ## 😊 Any question
 
-If you have any question, please feel free to contact with [Liying Wang](https://blog.csdn.net/weixin_46202235) at `my_lnnu@163.com` or `liyingw23@gmails.jlu.edu.cn`.
+If you have any question, please feel free to contact with [Liying Wang](https://blog.csdn.net/weixin_46202235) at `my_lnnu@163.com` or `liyingw23@mails.jlu.edu.cn`.
 
 
 ## 💡Acknowledgements
