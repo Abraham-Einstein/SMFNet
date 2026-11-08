@@ -1,5 +1,5 @@
 # A Semantic-Aware and Multi-Guided Network for Infrared-Visible Image Fusion
-[Xiaoli Zhang](https://zhangxiaolijlu.github.io/), [Liying Wang](https://blog.csdn.net/weixin_46202235), [Libo Zhao](), [Xiongfei Li]() and [Siwei Ma](https://idm.pku.edu.cn/en/info/1009/1017.htm)
+[Xiaoli Zhang](https://zhangxiaolijlu.github.io/), [Liying Wang](https://blog.csdn.net/weixin_46202235), [Libo Zhao](https://github.com/zhaolb4080), [Xiongfei Li]() and [Siwei Ma<sup>*</sup>](https://idm.pku.edu.cn/en/info/1009/1017.htm)
 
 -[*[ArXiv]*](https://arxiv.org/abs/2407.06159)
 ## 🌟 Update
